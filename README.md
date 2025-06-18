@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aradhyp
-- 👀 I’m interested in ...software development
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ...Java - arrays, DSA etc
+- 👀 I’m interested in ...Agile software development
+- 🌱 I’m currently learning ... Java Script
+- 💞️ I’m looking to collaborate on ...JavaScript - Node.js, .NET etc
 - 📫 How to reach me ... via email
 
 <!---
